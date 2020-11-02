@@ -13,4 +13,4 @@
 
 Trata-se de fazer os botões acenderem os leds quando pressionado e, quando soltos, os leds devem apagar. Coloque os componentes como está sendo mostrado na imagem abaixo, bem como suas ligações:
 
-<img alt="ledPushButton" title="#ledPushButton" src="./ledPushButton.png" width="600px">
+<img alt="ledPushButton" title="#ledPushButton" src="./threeLedPushButtons.png" width="600px">
